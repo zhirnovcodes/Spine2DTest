@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: f2916577fe233b34a83e16762c2abf33
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - UNO - HUD & GUI - Cursors_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 370
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b637ca1e40e3c4fa04b331bd3fdaa0
+      internalID: -1488936709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - UNO - HUD & GUI - Cursors_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 370
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7374882c7b785249b7fd698fe5dc999
+      internalID: 464331628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - UNO - HUD & GUI - Cursors_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 370
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be346918eff414e47bd0efbebeb31f23
+      internalID: 2116569737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - UNO - HUD & GUI - Cursors_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 370
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c67e514703b1ef4f88bd7871bd8d35d
+      internalID: 1866405647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - UNO - HUD & GUI - Cursors_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 370
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dc9c08643442d419f8748ea66843be
+      internalID: 1854779873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - UNO - HUD & GUI - Cursors_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 370
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f35ad9115e06114ba004542e5bf6cbc
+      internalID: -1204290891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - UNO - HUD & GUI - Cursors_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 370
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c1a1a73e3ee2c4b8a83074e7663929
+      internalID: -1781810187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1941b84cc02e21648af94a1351ddd160
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":65.0,"y":64.0},"gridSpriteOffset":{"x":10.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Wii - UNO - HUD & GUI - Cursors_0: -1488936709
+      Wii - UNO - HUD & GUI - Cursors_1: 464331628
+      Wii - UNO - HUD & GUI - Cursors_10: 535492445
+      Wii - UNO - HUD & GUI - Cursors_11: 1282415999
+      Wii - UNO - HUD & GUI - Cursors_12: -1080522285
+      Wii - UNO - HUD & GUI - Cursors_13: 860488258
+      Wii - UNO - HUD & GUI - Cursors_14: -983488058
+      Wii - UNO - HUD & GUI - Cursors_15: -1092741050
+      Wii - UNO - HUD & GUI - Cursors_16: 1496230589
+      Wii - UNO - HUD & GUI - Cursors_17: -1747785044
+      Wii - UNO - HUD & GUI - Cursors_18: 384460304
+      Wii - UNO - HUD & GUI - Cursors_19: -760378945
+      Wii - UNO - HUD & GUI - Cursors_2: 2116569737
+      Wii - UNO - HUD & GUI - Cursors_20: 605097099
+      Wii - UNO - HUD & GUI - Cursors_21: 520109666
+      Wii - UNO - HUD & GUI - Cursors_22: 1548047456
+      Wii - UNO - HUD & GUI - Cursors_23: -1568773116
+      Wii - UNO - HUD & GUI - Cursors_24: -1868440384
+      Wii - UNO - HUD & GUI - Cursors_25: 1173362995
+      Wii - UNO - HUD & GUI - Cursors_26: 1261277967
+      Wii - UNO - HUD & GUI - Cursors_27: -1297103920
+      Wii - UNO - HUD & GUI - Cursors_28: -1426975486
+      Wii - UNO - HUD & GUI - Cursors_29: 1478172777
+      Wii - UNO - HUD & GUI - Cursors_3: 1866405647
+      Wii - UNO - HUD & GUI - Cursors_30: -633690777
+      Wii - UNO - HUD & GUI - Cursors_31: 2084337484
+      Wii - UNO - HUD & GUI - Cursors_32: 1056527536
+      Wii - UNO - HUD & GUI - Cursors_33: 2016572061
+      Wii - UNO - HUD & GUI - Cursors_34: -1603264401
+      Wii - UNO - HUD & GUI - Cursors_35: 1390095021
+      Wii - UNO - HUD & GUI - Cursors_36: -2063533238
+      Wii - UNO - HUD & GUI - Cursors_37: 1910636061
+      Wii - UNO - HUD & GUI - Cursors_38: 196883345
+      Wii - UNO - HUD & GUI - Cursors_39: 440440404
+      Wii - UNO - HUD & GUI - Cursors_4: 1854779873
+      Wii - UNO - HUD & GUI - Cursors_40: -1920211185
+      Wii - UNO - HUD & GUI - Cursors_41: 848968642
+      Wii - UNO - HUD & GUI - Cursors_5: -1204290891
+      Wii - UNO - HUD & GUI - Cursors_6: -1781810187
+      Wii - UNO - HUD & GUI - Cursors_7: 1573438716
+      Wii - UNO - HUD & GUI - Cursors_8: -1454287653
+      Wii - UNO - HUD & GUI - Cursors_9: -1127794101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

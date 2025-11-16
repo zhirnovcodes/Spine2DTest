@@ -1,0 +1,85 @@
+Lama test_5.png
+size:1388,785
+filter:Linear,Linear
+Iris L
+bounds:1322,443,51,50
+Iris R
+bounds:1342,236,41,44
+rotate:90
+Layer 5
+bounds:1211,420,143,109
+rotate:90
+Layer 8
+bounds:1250,279,139,132
+offsets:0,2,139,147
+rotate:90
+back leg front
+bounds:2,102,222,406
+offsets:0,0,222,411
+rotate:90
+back leg front back
+bounds:864,565,218,386
+offsets:0,2,220,397
+rotate:90
+body
+bounds:2,326,504,457
+offsets:2,1,506,458
+ear L
+bounds:1252,573,126,210
+offsets:0,12,131,222
+ear R
+bounds:410,137,90,187
+offsets:1,7,92,198
+eyeball L
+bounds:1250,190,90,87
+eyeball R
+bounds:1322,495,59,76
+eyebrow L
+bounds:410,102,139,33
+offsets:4,0,143,33
+eyebrow R
+bounds:658,2,80,38
+offsets:0,1,83,40
+eyelid L
+bounds:502,158,119,63
+offsets:1,3,122,68
+eyelid R
+bounds:1312,15,72,57
+offsets:1,1,75,61
+front leg back
+bounds:508,223,181,330
+offsets:2,2,183,354
+rotate:90
+front leg front
+bounds:864,372,191,345
+offsets:0,0,191,370
+rotate:90
+head
+bounds:508,406,354,377
+offsets:0,0,355,377
+pee_03
+bounds:658,42,171,179
+offsets:54,1,232,184
+pee_04
+bounds:1065,173,197,183
+offsets:27,1,232,184
+rotate:90
+pee_05
+bounds:840,186,223,184
+offsets:0,0,232,184
+pee_06
+bounds:831,2,196,182
+offsets:29,1,232,184
+pee_appear_01
+bounds:1223,3,69,87
+offsets:163,94,232,184
+rotate:90
+pee_appear_02
+bounds:1223,74,97,163
+offsets:125,17,232,184
+rotate:90
+shade
+bounds:2,33,654,67
+tail
+bounds:1029,17,192,154
+offsets:0,0,193,154

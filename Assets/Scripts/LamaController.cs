@@ -3,7 +3,8 @@ using UnityEngine.UI;
 
 public class LamaController : MonoBehaviour
 {
-    public Animator Animator;
+    public Animator Animator1;
+    public Animator Animator2;
 
     void Update()
     {
@@ -15,6 +16,7 @@ public class LamaController : MonoBehaviour
 
     public void Jump()
     {
-        Animator.SetTrigger("Jump");
+        Animator1.SetTrigger("Jump");
+        Animator2.SetTrigger("Jump");
     }
 }

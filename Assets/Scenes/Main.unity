@@ -632,7 +632,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2042141486}
-  - component: {fileID: 2042141485}
+  - component: {fileID: 2042141487}
   m_Layer: 0
   m_Name: LamaController
   m_TagString: Untagged
@@ -640,19 +640,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2042141485
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2042141484}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 03ac56cd768cd03459eb297bd106a77f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Animator: {fileID: 761786887}
 --- !u!4 &2042141486
 Transform:
   m_ObjectHideFlags: 0
@@ -668,6 +655,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2042141487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2042141484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ac56cd768cd03459eb297bd106a77f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LamaController
+  Animator: {fileID: 761786887}
 --- !u!1001 &3244155133850247080
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -773,9 +773,25 @@ PrefabInstance:
       value: Button
       objectReference: {fileID: 0}
     - target: {fileID: 8287087997961517677, guid: 30f4cb2d665ed1745a8f1df036f4707a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8287087997961517677, guid: 30f4cb2d665ed1745a8f1df036f4707a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 2042141485}
+      objectReference: {fileID: 2042141487}
+    - target: {fileID: 8287087997961517677, guid: 30f4cb2d665ed1745a8f1df036f4707a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Jump
+      objectReference: {fileID: 0}
+    - target: {fileID: 8287087997961517677, guid: 30f4cb2d665ed1745a8f1df036f4707a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: LamaController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8287087997961517677, guid: 30f4cb2d665ed1745a8f1df036f4707a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Jump
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

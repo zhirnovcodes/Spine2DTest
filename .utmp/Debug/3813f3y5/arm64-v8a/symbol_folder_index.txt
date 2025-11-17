@@ -1,0 +1,1 @@
+C:\Work\Spine2DTest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\3813f3y5\obj\arm64-v8a
